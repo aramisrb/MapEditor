@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <res-meta>
+        <dc:description>a</dc:description>
+        <dc:publisher>SAMC</dc:publisher>
+        <dc:source>D:\TRABAJO\CUJAE\Proyectos\MapEditor\amsterdan.cxl</dc:source>
+        <dc:subject>b</dc:subject>
+        <dc:title>Amsterdan</dc:title>
+    </res-meta>
+    <map>
+        <concept-list>
+            <concept id="54846e0c-e735-4913-bd38-0411d467f0bd" label="Amsterdam"/>
+            <concept id="dcc1862a-15ff-4a61-ae34-9a4900108abc" label="largest city"/>
+            <concept id="9bde4db7-c950-4a90-9883-d5c7ab682655" label="capital of Netherlands"/>
+            <concept id="7fc3712f-fde9-43d8-824e-3731848db6e4" label="Its principal language"/>
+            <concept id="19db774e-3707-4f98-bc54-aacf7f6c95b1" label="Dutch"/>
+            <concept id="863d73e5-f8f6-40ae-b6f0-7c235ad687f4" label="status of city"/>
+            <concept id="07de8936-77a5-44c0-b3d4-f8e5960b088c" label="capital of nation"/>
+            <concept id="432bf51d-af1c-4c17-8bd8-04bd9f501de8" label="constitution"/>
+            <concept id="0c838b5a-1bc3-4e68-8e97-d43a1a79b0bb" label="a population of city limits"/>
+            <concept id="8df9f119-e8eb-4bc5-9822-fc9fdd3c6745" label="an urban population"/>
+            <concept id="70f90269-b156-4837-8d2e-35645c04622b" label="a metropolitan population"/>
+            <concept id="934bf78d-734e-4c6a-ad4f-12238962d9b1" label="province of North Holland"/>
+            <concept id="a6069ef0-1f89-4340-9bcd-bcf4ca82056d" label="west of country"/>
+            <concept id="d90f048a-6cdf-43c5-bf8f-4a3dc5f1fef3" label="city"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="0c454f94-f40a-4cac-af56-f1b9eb597063" label="is"/>
+            <linking-phrase id="631a33bc-3300-4578-bb41-e27abdf366d7" label="is"/>
+            <linking-phrase id="1f7e0a37-2ba6-43c8-9e0b-d9e998598058" label="as"/>
+            <linking-phrase id="7acc9445-da62-4de1-888f-3413ec2ea78e" label="is governed by"/>
+            <linking-phrase id="b778ae76-a722-42e7-8dd2-18693aa20520" label="has"/>
+            <linking-phrase id="32fe94b6-04b5-4033-86e5-d48f6eee1c97" label="in"/>
+            <linking-phrase id="2679aded-254d-4904-b2c4-a2acee98d6c1" label="is located in"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection from-id="54846e0c-e735-4913-bd38-0411d467f0bd"
+                id="7d034baf-685d-4832-9855-86939b54df01" to-id="0c454f94-f40a-4cac-af56-f1b9eb597063"/>
+            <connection from-id="0c454f94-f40a-4cac-af56-f1b9eb597063"
+                id="8f598a65-6661-4108-8353-b9b26bf814da" to-id="dcc1862a-15ff-4a61-ae34-9a4900108abc"/>
+            <connection from-id="54846e0c-e735-4913-bd38-0411d467f0bd"
+                id="18177658-eee4-4a00-b8f9-75b1d5b5c7fb" to-id="0c454f94-f40a-4cac-af56-f1b9eb597063"/>
+            <connection from-id="0c454f94-f40a-4cac-af56-f1b9eb597063"
+                id="569dbb7a-b6a1-4ebf-bab4-a1357815bde2" to-id="9bde4db7-c950-4a90-9883-d5c7ab682655"/>
+            <connection from-id="7fc3712f-fde9-43d8-824e-3731848db6e4"
+                id="073de6ae-94db-46c4-971f-0aa06dbc31f8" to-id="631a33bc-3300-4578-bb41-e27abdf366d7"/>
+            <connection from-id="631a33bc-3300-4578-bb41-e27abdf366d7"
+                id="47450a45-484f-462e-9cf9-caa9ff4c3533" to-id="19db774e-3707-4f98-bc54-aacf7f6c95b1"/>
+            <connection from-id="863d73e5-f8f6-40ae-b6f0-7c235ad687f4"
+                id="9b4247c2-3a44-48bc-8682-6152d13be71d" to-id="1f7e0a37-2ba6-43c8-9e0b-d9e998598058"/>
+            <connection from-id="1f7e0a37-2ba6-43c8-9e0b-d9e998598058"
+                id="516e9223-3292-475f-a5ef-83978db71e5f" to-id="07de8936-77a5-44c0-b3d4-f8e5960b088c"/>
+            <connection from-id="863d73e5-f8f6-40ae-b6f0-7c235ad687f4"
+                id="4b2c58a5-1897-4e35-8067-92d57080676d" to-id="7acc9445-da62-4de1-888f-3413ec2ea78e"/>
+            <connection from-id="7acc9445-da62-4de1-888f-3413ec2ea78e"
+                id="8da6253b-5b7a-422d-92b2-7204f362e910" to-id="432bf51d-af1c-4c17-8bd8-04bd9f501de8"/>
+            <connection from-id="54846e0c-e735-4913-bd38-0411d467f0bd"
+                id="e7dccdd8-f426-4054-aa35-dc2c279203d6" to-id="b778ae76-a722-42e7-8dd2-18693aa20520"/>
+            <connection from-id="b778ae76-a722-42e7-8dd2-18693aa20520"
+                id="3789438e-7bb5-46d0-b186-35796f350c87" to-id="0c838b5a-1bc3-4e68-8e97-d43a1a79b0bb"/>
+            <connection from-id="54846e0c-e735-4913-bd38-0411d467f0bd"
+                id="8da3b7fb-0ed3-4b40-b462-a010c9d59390" to-id="b778ae76-a722-42e7-8dd2-18693aa20520"/>
+            <connection from-id="b778ae76-a722-42e7-8dd2-18693aa20520"
+                id="7e3f9bfb-336e-4a5f-a63b-296cf6b46ee0" to-id="8df9f119-e8eb-4bc5-9822-fc9fdd3c6745"/>
+            <connection from-id="54846e0c-e735-4913-bd38-0411d467f0bd"
+                id="d542e95f-9021-473d-a417-bda230662eef" to-id="b778ae76-a722-42e7-8dd2-18693aa20520"/>
+            <connection from-id="b778ae76-a722-42e7-8dd2-18693aa20520"
+                id="d31b72c2-69a1-4f19-a00c-b0e7829d1e6c" to-id="70f90269-b156-4837-8d2e-35645c04622b"/>
+            <connection from-id="934bf78d-734e-4c6a-ad4f-12238962d9b1"
+                id="2a74b508-2214-4034-a30a-1275452b4d1d" to-id="32fe94b6-04b5-4033-86e5-d48f6eee1c97"/>
+            <connection from-id="32fe94b6-04b5-4033-86e5-d48f6eee1c97"
+                id="ff11e676-7ee3-48fe-821b-275da65896ad" to-id="a6069ef0-1f89-4340-9bcd-bcf4ca82056d"/>
+            <connection from-id="d90f048a-6cdf-43c5-bf8f-4a3dc5f1fef3"
+                id="2830b7c6-5450-4539-9a27-f95d2b1e37e0" to-id="2679aded-254d-4904-b2c4-a2acee98d6c1"/>
+            <connection from-id="2679aded-254d-4904-b2c4-a2acee98d6c1"
+                id="0a8f938c-b410-4754-bcbe-cd2133f78e24" to-id="934bf78d-734e-4c6a-ad4f-12238962d9b1"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance background-color="200,200,200,255"
+                id="54846e0c-e735-4913-bd38-0411d467f0bd" x="315" y="122"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="dcc1862a-15ff-4a61-ae34-9a4900108abc" x="202" y="54"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="9bde4db7-c950-4a90-9883-d5c7ab682655" x="207" y="155"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="7fc3712f-fde9-43d8-824e-3731848db6e4" x="97" y="221"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="19db774e-3707-4f98-bc54-aacf7f6c95b1" x="114" y="352"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="863d73e5-f8f6-40ae-b6f0-7c235ad687f4" x="319" y="222"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="07de8936-77a5-44c0-b3d4-f8e5960b088c" x="218" y="351"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="432bf51d-af1c-4c17-8bd8-04bd9f501de8" x="358" y="351"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="0c838b5a-1bc3-4e68-8e97-d43a1a79b0bb" x="416" y="155"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="8df9f119-e8eb-4bc5-9822-fc9fdd3c6745" x="619" y="155"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="70f90269-b156-4837-8d2e-35645c04622b" x="822" y="155"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="934bf78d-734e-4c6a-ad4f-12238962d9b1" x="535" y="351"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="a6069ef0-1f89-4340-9bcd-bcf4ca82056d" x="535" y="481"/>
+            <concept-appearance background-color="200,200,200,255"
+                id="d90f048a-6cdf-43c5-bf8f-4a3dc5f1fef3" x="535" y="221"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="0c454f94-f40a-4cac-af56-f1b9eb597063" x="207" y="90"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="631a33bc-3300-4578-bb41-e27abdf366d7" x="97" y="286"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="1f7e0a37-2ba6-43c8-9e0b-d9e998598058" x="230" y="286"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="7acc9445-da62-4de1-888f-3413ec2ea78e" x="345" y="286"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="b778ae76-a722-42e7-8dd2-18693aa20520" x="517" y="90"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="32fe94b6-04b5-4033-86e5-d48f6eee1c97" x="535" y="416"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="2679aded-254d-4904-b2c4-a2acee98d6c1" x="535" y="286"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="7d034baf-685d-4832-9855-86939b54df01" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="8f598a65-6661-4108-8353-b9b26bf814da" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="18177658-eee4-4a00-b8f9-75b1d5b5c7fb" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="569dbb7a-b6a1-4ebf-bab4-a1357815bde2" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="073de6ae-94db-46c4-971f-0aa06dbc31f8" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="47450a45-484f-462e-9cf9-caa9ff4c3533" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="9b4247c2-3a44-48bc-8682-6152d13be71d" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="516e9223-3292-475f-a5ef-83978db71e5f" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="4b2c58a5-1897-4e35-8067-92d57080676d" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="8da6253b-5b7a-422d-92b2-7204f362e910" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="e7dccdd8-f426-4054-aa35-dc2c279203d6" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="3789438e-7bb5-46d0-b186-35796f350c87" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="8da3b7fb-0ed3-4b40-b462-a010c9d59390" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="7e3f9bfb-336e-4a5f-a63b-296cf6b46ee0" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="d542e95f-9021-473d-a417-bda230662eef" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="d31b72c2-69a1-4f19-a00c-b0e7829d1e6c" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="2a74b508-2214-4034-a30a-1275452b4d1d" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="ff11e676-7ee3-48fe-821b-275da65896ad" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="2830b7c6-5450-4539-9a27-f95d2b1e37e0" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="0a8f938c-b410-4754-bcbe-cd2133f78e24" to-pos="center"/>
+        </connection-appearance-list>
+    </map>
+</cmap>

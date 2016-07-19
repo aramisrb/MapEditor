@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <res-meta>
+        <dc:title>Sin título</dc:title>
+        <dc:description>Sin descripción</dc:description>
+    </res-meta>
+    <map>
+        <concept-list>
+            <concept id="e97f0e35-72d1-414b-b589-441d4e51395c" label="a"/>
+            <concept id="56d3d0f0-444f-4449-8b03-7cab9ce07352" label="c"/>
+            <concept id="21d3377c-291e-419b-bcdb-e522dd652c72" label="d"/>
+            <concept id="85053827-9d55-4c28-a8d2-5d44e101dd34" label="g"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="f762ab2f-399a-48ba-aad5-61aca8079a96" label="b"/>
+            <linking-phrase id="c9f0637b-b462-4bf8-965b-3fe7a9978d03" label="e"/>
+            <linking-phrase id="6c37261f-810c-4bb7-b070-5eb9e54c1dac" label="f"/>
+            <linking-phrase id="5dcf2c4e-b605-49f2-886b-8d6e1aaf7dbd" label="h"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection from-id="e97f0e35-72d1-414b-b589-441d4e51395c"
+                id="6d0206e7-1d30-41c3-8ea1-f13e95ef5fc7" to-id="f762ab2f-399a-48ba-aad5-61aca8079a96"/>
+            <connection from-id="f762ab2f-399a-48ba-aad5-61aca8079a96"
+                id="159b9fa4-68a2-4616-89ab-ba9974bd2159" to-id="56d3d0f0-444f-4449-8b03-7cab9ce07352"/>
+            <connection from-id="21d3377c-291e-419b-bcdb-e522dd652c72"
+                id="84bc9a5e-12ae-42a1-9608-f4b4502df49c" to-id="c9f0637b-b462-4bf8-965b-3fe7a9978d03"/>
+            <connection from-id="c9f0637b-b462-4bf8-965b-3fe7a9978d03"
+                id="071b4841-62ee-4b19-9229-a1003a3fd6e4" to-id="56d3d0f0-444f-4449-8b03-7cab9ce07352"/>
+            <connection from-id="56d3d0f0-444f-4449-8b03-7cab9ce07352"
+                id="68fdae95-8be0-450a-aa0f-8e9175e72aca" to-id="6c37261f-810c-4bb7-b070-5eb9e54c1dac"/>
+            <connection from-id="6c37261f-810c-4bb7-b070-5eb9e54c1dac"
+                id="affb6a5d-05b7-4739-896b-93cf44f2b3d6" to-id="85053827-9d55-4c28-a8d2-5d44e101dd34"/>
+            <connection from-id="21d3377c-291e-419b-bcdb-e522dd652c72"
+                id="6a7ac6fa-bf53-44cd-bda0-bbb2be6c2f5b" to-id="5dcf2c4e-b605-49f2-886b-8d6e1aaf7dbd"/>
+            <connection from-id="5dcf2c4e-b605-49f2-886b-8d6e1aaf7dbd"
+                id="87392755-1075-4ed1-ba1b-56a9bda7158f" to-id="85053827-9d55-4c28-a8d2-5d44e101dd34"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance background-color="200,255,250,255"
+                id="e97f0e35-72d1-414b-b589-441d4e51395c" x="287" y="119"/>
+            <concept-appearance background-color="200,255,250,255"
+                id="56d3d0f0-444f-4449-8b03-7cab9ce07352" x="289" y="330"/>
+            <concept-appearance background-color="200,255,250,255"
+                id="21d3377c-291e-419b-bcdb-e522dd652c72" x="428" y="112"/>
+            <concept-appearance background-color="200,255,250,255"
+                id="85053827-9d55-4c28-a8d2-5d44e101dd34" x="295" y="568"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="f762ab2f-399a-48ba-aad5-61aca8079a96" x="288" y="224"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="c9f0637b-b462-4bf8-965b-3fe7a9978d03" x="359" y="219"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="6c37261f-810c-4bb7-b070-5eb9e54c1dac" x="292" y="449"/>
+            <linking-phrase-appearance
+                background-color="255,255,255,255"
+                id="5dcf2c4e-b605-49f2-886b-8d6e1aaf7dbd" x="363" y="338"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="6d0206e7-1d30-41c3-8ea1-f13e95ef5fc7" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="159b9fa4-68a2-4616-89ab-ba9974bd2159" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="84bc9a5e-12ae-42a1-9608-f4b4502df49c" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="071b4841-62ee-4b19-9229-a1003a3fd6e4" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="68fdae95-8be0-450a-aa0f-8e9175e72aca" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="affb6a5d-05b7-4739-896b-93cf44f2b3d6" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="6a7ac6fa-bf53-44cd-bda0-bbb2be6c2f5b" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="87392755-1075-4ed1-ba1b-56a9bda7158f" to-pos="center"/>
+        </connection-appearance-list>
+    </map>
+</cmap>

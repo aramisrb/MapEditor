@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <res-meta>
+        <dc:title>Sin título</dc:title>
+        <dc:description>Sin descripción</dc:description>
+    </res-meta>
+    <map>
+        <concept-list/>
+        <linking-phrase-list/>
+        <connection-list/>
+        <concept-appearance-list/>
+        <linking-phrase-appearance-list/>
+        <connection-appearance-list/>
+    </map>
+</cmap>

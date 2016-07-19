@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <res-meta>
+        <dc:title>Sin título</dc:title>
+        <dc:description>Sin descripción</dc:description>
+    </res-meta>
+    <map>
+        <concept-list>
+            <concept id="74b120e7-6ca6-4157-bb2d-b91c8e32ad6a" label="Juan"/>
+            <concept id="832ea4a4-a653-43d3-8900-417c335388ae" label="carne"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="c3c34a83-4987-4a13-b65a-8d5eda22d461" label="come"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection from-id="74b120e7-6ca6-4157-bb2d-b91c8e32ad6a"
+                id="d8ba730a-f300-4b00-a753-a7a3b581e017" to-id="c3c34a83-4987-4a13-b65a-8d5eda22d461"/>
+            <connection from-id="c3c34a83-4987-4a13-b65a-8d5eda22d461"
+                id="b5e578a8-837b-4be5-834d-862183ff2957" to-id="832ea4a4-a653-43d3-8900-417c335388ae"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance background-color="200,255,250,255"
+                id="74b120e7-6ca6-4157-bb2d-b91c8e32ad6a" x="70.0" y="70.0"/>
+            <concept-appearance background-color="200,255,250,255"
+                id="832ea4a4-a653-43d3-8900-417c335388ae" x="70.0" y="210.0"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase background-color="255,255,255,255"
+                id="c3c34a83-4987-4a13-b65a-8d5eda22d461" x="70.0" y="140.0"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="d8ba730a-f300-4b00-a753-a7a3b581e017" to-pos="center"/>
+            <connection-appearance arrowhead="if-to-concept"
+                color="0,0,0,255" from-pos="center"
+                id="b5e578a8-837b-4be5-834d-862183ff2957" to-pos="center"/>
+        </connection-appearance-list>
+    </map>
+</cmap>

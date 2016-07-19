@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://cmap.ihmc.us/xml/cmap/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+    <res-meta>
+        <dc:title>Sin T&#xed;tulo 2</dc:title>
+        <dc:creator>
+            <vcard:FN>Aramis</vcard:FN>
+            <vcard:ORG>
+                <vcard:Orgname>CITI</vcard:Orgname>
+            </vcard:ORG>
+        </dc:creator>
+        <dc:contributor>
+            <vcard:FN>Aramis</vcard:FN>
+            <vcard:ORG>
+                <vcard:Orgname>CITI</vcard:Orgname>
+            </vcard:ORG>
+        </dc:contributor>
+        <dcterms:rightsHolder>
+            <vcard:FN>Aramis</vcard:FN>
+            <vcard:ORG>
+                <vcard:Orgname>CITI</vcard:Orgname>
+            </vcard:ORG>
+        </dcterms:rightsHolder>
+        <dcterms:created>2012-11-29T17:26:33-05:00</dcterms:created>
+        <dcterms:modified>2012-11-29T17:26:32-05:00</dcterms:modified>
+        <dc:language>es</dc:language>
+        <dc:format>x-cmap/x-storable</dc:format>
+        <dc:publisher>FIHMC CmapTools 5.04.02</dc:publisher>
+        <dc:extent>5543 bytes</dc:extent>
+        <dc:source>cmap:1K3HB95WF-22GFTGC-1:1K3HB9B1K-1N87RKC-Y:1L6V5WYDS-1KHK3FW-PG</dc:source>
+    </res-meta>
+    <map width="252" height="427">
+        <concept-list>
+            <concept id="1L6V6098B-GQ4XFJ-R3" label="E"/>
+            <concept id="1L6V5ZS7M-1NQKZ2D-PR" label="A"/>
+            <concept id="1L6V62F62-1Y45GN0-XD" label="H"/>
+            <concept id="1L6V62QZK-2BW5SPQ-YB" label="I"/>
+            <concept id="1L6V61H09-1X9CH8P-SV" label="F"/>
+            <concept id="1L6V6035T-187SXPJ-Q5" label="K"/>
+        </concept-list>
+        <linking-phrase-list>
+            <linking-phrase id="1L6V6098D-MZW28T-R6" label="C"/>
+            <linking-phrase id="1L6V625V5-23L8DJB-WM" label="L"/>
+            <linking-phrase id="1L6V60HNP-1Q61C34-RY" label="D"/>
+            <linking-phrase id="1L6V6035W-C6KYZH-Q8" label="B"/>
+            <linking-phrase id="1L6V62F64-1QMGCX7-XH" label="G"/>
+            <linking-phrase id="1L6V634QV-755JKH-YW" label="J"/>
+        </linking-phrase-list>
+        <connection-list>
+            <connection id="1L6V61M2C-6GM7ZH-TD" from-id="1L6V60HNP-1Q61C34-RY" to-id="1L6V61H09-1X9CH8P-SV"/>
+            <connection id="1L6V64226-1MKYJYS-101" from-id="1L6V62F62-1Y45GN0-XD" to-id="1L6V6098D-MZW28T-R6"/>
+            <connection id="1L6V65D6F-207FDRB-10F" from-id="1L6V62QZK-2BW5SPQ-YB" to-id="1L6V6035W-C6KYZH-Q8"/>
+            <connection id="1L6V61H0C-1L6TXV5-SY" from-id="1L6V6035W-C6KYZH-Q8" to-id="1L6V61H09-1X9CH8P-SV"/>
+            <connection id="1L6V60HNQ-32QSVL-S1" from-id="1L6V5ZS7M-1NQKZ2D-PR" to-id="1L6V60HNP-1Q61C34-RY"/>
+            <connection id="1L6V63M5J-1JL7MQ1-ZN" from-id="1L6V6035T-187SXPJ-Q5" to-id="1L6V634QV-755JKH-YW"/>
+            <connection id="1L6V6035X-XJTP8S-QD" from-id="1L6V5ZS7M-1NQKZ2D-PR" to-id="1L6V6035W-C6KYZH-Q8"/>
+            <connection id="1L6V634QW-88D9KH-Z5" from-id="1L6V634QV-755JKH-YW" to-id="1L6V6098B-GQ4XFJ-R3"/>
+            <connection id="1L6V62F64-VCX8GQ-XL" from-id="1L6V61H09-1X9CH8P-SV" to-id="1L6V62F64-1QMGCX7-XH"/>
+            <connection id="1L6V625V7-1XR9FVR-WX" from-id="1L6V625V5-23L8DJB-WM" to-id="1L6V6035T-187SXPJ-Q5"/>
+            <connection id="1L6V625V6-1YFNBYG-WQ" from-id="1L6V6098B-GQ4XFJ-R3" to-id="1L6V625V5-23L8DJB-WM"/>
+            <connection id="1L6V62F65-JH6M5T-XS" from-id="1L6V62F64-1QMGCX7-XH" to-id="1L6V62F62-1Y45GN0-XD"/>
+            <connection id="1L6V634QW-39QCLS-YZ" from-id="1L6V62QZK-2BW5SPQ-YB" to-id="1L6V634QV-755JKH-YW"/>
+            <connection id="1L6V6098F-1G6JCD4-RG" from-id="1L6V6098D-MZW28T-R6" to-id="1L6V6098B-GQ4XFJ-R3"/>
+            <connection id="1L6V6035X-RS5XKP-QL" from-id="1L6V6035W-C6KYZH-Q8" to-id="1L6V6035T-187SXPJ-Q5"/>
+            <connection id="1L6V6098F-1ZTBD3-R9" from-id="1L6V5ZS7M-1NQKZ2D-PR" to-id="1L6V6098D-MZW28T-R6"/>
+            <connection id="1L6V60HNQ-250SN52-S6" from-id="1L6V60HNP-1Q61C34-RY" to-id="1L6V6098B-GQ4XFJ-R3"/>
+            <connection id="1L6V62QZM-1DGDKCQ-YF" from-id="1L6V62F64-1QMGCX7-XH" to-id="1L6V62QZK-2BW5SPQ-YB"/>
+        </connection-list>
+        <concept-appearance-list>
+            <concept-appearance id="1L6V6098B-GQ4XFJ-R3" x="84" y="237" width="24" height="25"/>
+            <concept-appearance id="1L6V5ZS7M-1NQKZ2D-PR" x="129" y="37" width="24" height="25"/>
+            <concept-appearance id="1L6V62F62-1Y45GN0-XD" x="54" y="37" width="25" height="25"/>
+            <concept-appearance id="1L6V62QZK-2BW5SPQ-YB" x="208" y="37" width="21" height="25"/>
+            <concept-appearance id="1L6V61H09-1X9CH8P-SV" x="208" y="237" width="23" height="25"/>
+            <concept-appearance id="1L6V6035T-187SXPJ-Q5" x="167" y="437" width="24" height="25"/>
+        </concept-appearance-list>
+        <linking-phrase-appearance-list>
+            <linking-phrase-appearance id="1L6V6098D-MZW28T-R6" x="29" y="137" width="10" height="11"/>
+            <linking-phrase-appearance id="1L6V625V5-23L8DJB-WM" x="84" y="337" width="9" height="11"/>
+            <linking-phrase-appearance id="1L6V60HNP-1Q61C34-RY" x="89" y="137" width="11" height="11"/>
+            <linking-phrase-appearance id="1L6V6035W-C6KYZH-Q8" x="268" y="137" width="10" height="11"/>
+            <linking-phrase-appearance id="1L6V62F64-1QMGCX7-XH" x="207" y="137" width="11" height="11"/>
+            <linking-phrase-appearance id="1L6V634QV-755JKH-YW" x="148" y="137" width="7" height="11"/>
+        </linking-phrase-appearance-list>
+        <connection-appearance-list>
+            <connection-appearance id="1L6V61M2C-6GM7ZH-TD" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V64226-1MKYJYS-101" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V65D6F-207FDRB-10F" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V61H0C-1L6TXV5-SY" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V60HNQ-32QSVL-S1" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V63M5J-1JL7MQ1-ZN" from-pos="center" to-pos="center" type="straight" arrowhead="yes">
+                <control-point x="146" y="337"/>
+                <control-point x="146" y="237"/>
+            </connection-appearance>
+            <connection-appearance id="1L6V6035X-XJTP8S-QD" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V634QW-88D9KH-Z5" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V62F64-VCX8GQ-XL" from-pos="center" to-pos="center" type="straight" arrowhead="yes">
+                <control-point x="208" y="187"/>
+            </connection-appearance>
+            <connection-appearance id="1L6V625V7-1XR9FVR-WX" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V625V6-1YFNBYG-WQ" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V62F65-JH6M5T-XS" from-pos="center" to-pos="center" type="straight" arrowhead="yes">
+                <control-point x="207" y="87"/>
+            </connection-appearance>
+            <connection-appearance id="1L6V634QW-39QCLS-YZ" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V6098F-1G6JCD4-RG" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V6035X-RS5XKP-QL" from-pos="center" to-pos="center" type="straight" arrowhead="yes">
+                <control-point x="270" y="237"/>
+                <control-point x="270" y="337"/>
+            </connection-appearance>
+            <connection-appearance id="1L6V6098F-1ZTBD3-R9" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V60HNQ-250SN52-S6" from-pos="center" to-pos="center" type="straight" arrowhead="yes"/>
+            <connection-appearance id="1L6V62QZM-1DGDKCQ-YF" from-pos="center" to-pos="center" type="straight" arrowhead="yes">
+                <control-point x="207" y="87"/>
+            </connection-appearance>
+        </connection-appearance-list>
+        <style-sheet-list>
+            <style-sheet id="_Default_">
+                <map-style background-color="255,255,255,0" image-style="full" image-top-left="0,0"/>
+                <concept-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="4" background-color="237,244,246,255" background-image-style="full" border-color="0,0,0,255" border-style="solid" border-thickness="1"
+                    border-shape="rounded-rectangle" text-alignment="center" shadow-color="none"/>
+                <linking-phrase-style font-name="Verdana" font-size="12" font-style="plain" font-color="0,0,0,255" text-margin="1" background-color="0,0,255,0" background-image-style="full" border-color="0,0,0,0" border-style="solid" border-thickness="1"
+                    border-shape="rectangle" text-alignment="center" shadow-color="none"/>
+                <connection-style color="0,0,0,255" style="solid" thickness="1" type="straight" arrowhead="if-to-concept-and-slopes-up"/>
+                <resource-style font-name="SanSerif" font-size="12" font-style="plain" font-color="0,0,0,255" background-color="192,192,192,255"/>
+            </style-sheet>
+            <style-sheet id="_LatestChanges_">
+                <connection-style arrowhead="yes"/>
+            </style-sheet>
+        </style-sheet-list>
+        <extra-graphical-properties-list>
+            <properties-list id="1L6V5WYDS-1KHK3FW-PG">
+                <property key="StyleSheetGroup_0" value="//*@!#$%%^&amp;*()() No Grouped StyleSheets @"/>
+            </properties-list>
+        </extra-graphical-properties-list>
+    </map>
+</cmap>
